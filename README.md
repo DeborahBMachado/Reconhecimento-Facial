@@ -23,7 +23,6 @@ Esse repositório mostra a utilização do recurso do Azure AI Services e o port
 
 
 
-# Ferramenta Extrair Texto de Imagem
 
 
 
