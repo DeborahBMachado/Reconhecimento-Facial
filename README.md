@@ -21,7 +21,7 @@ Esse repositório mostra a utilização do recurso do Azure AI Services e o port
 
 3. Ao passar pela funcionalidade "Face ou rosto" termos o resultado do mask conforme imagem abaixo:
 
-![image](https://github.com/DeborahBMachado/Reconhecimento-Facial/blob/main/Output/Captura%20de%20tela%202024-04-12%20124821.png)
+![image](https://github.com/DeborahBMachado/Reconhecimento-Facial/blob/main/Output/Captura%20de%20tela%202024-04-12%20140451.png)
 
 
 
