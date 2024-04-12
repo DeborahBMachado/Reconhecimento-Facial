@@ -16,6 +16,7 @@ Esse repositório mostra a utilização do recurso do Azure AI Services e o port
 1. No portal do Vision Studio desca na tela inicial e selecione a opção de "rosto ou face" e depois clicar no "Try it out" do Detect faces in an image (detectar rosto em uma imagem). Essa função irá detectar se os rostos estão bem visíveis e, caso estejam cobertos de alguma forma, descreve o "mask: true" com o que possivelmente estaria os cobrindo.
 2. Vamos fazer um teste com a imagem abaixo:
 
+![image](https://github.com/DeborahBMachado/Reconhecimento-Facial/blob/main/Inputs/Captura%20de%20tela%202024-04-12%20124757.png)
 
 
 3. Ao passar pela funcionalidade "Face ou rosto" termos o resultado do mask conforme imagem abaixo:
